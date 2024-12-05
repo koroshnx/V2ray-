@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> V2ray Nx </title>
+    
 </head>
 <body>
     <link rel="stylesheet" href="2.css">
