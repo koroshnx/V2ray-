@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="خرید کانفیگ V2ray پرسرعت برای اندروید و آیفون با بهترین قیمت. سرویس‌های مطمئن و قوی برای اینترنت آزاد.">
+    <meta name="keywords" content="خرید کانفیگ V2ray, خرید وی تو ری, فیلترشکن پرسرعت, خرید VPN, خرید وی پی ان">
+    <meta name="author" content="v2ray nx">
+    <title>خرید کانفیگ V2ray</title>
 </head>
+
 <body>
     <link rel="stylesheet" href="2.css">
     <h1>خرید کانفیگ V2ray </h1>
